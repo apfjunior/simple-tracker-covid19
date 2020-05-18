@@ -6,12 +6,21 @@
   <img alt="covid19-tracker" src="demos/covid19-tracker.png" width="100%">
 </p>
 
+&nbsp;
+
+### :magnet: API used 
+- [https://covid19.mathdro.id/api](https://covid19.mathdro.id/api)
+
+&nbsp;
+
 ## :hammer_and_wrench: Build
 - [Axios](https://github.com/axios/axios)
 - [React](https://reactjs.org/)
 - [Charts.js](https://www.npmjs.com/package/chart.js?activeTab=readme)
 - [Material UI](https://material-ui.com/)
 - [React Countup](https://github.com/glennreyes/react-countup)
+
+&nbsp;
 
 ## :information_source: How To Use
 You'll need: [Node](https://nodejs.org/) and [Git](https://git-scm.com) installed in your computer.
