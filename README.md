@@ -1,6 +1,6 @@
 ## :bar_chart:  COVID-19 Tracker Application
 
-### Check out [Live Site](https://covid19website.netlify.com)
+### :mag:[Live Site!](https://covid19website.netlify.com)
 
 <p align="center">
   <img alt="covid19-tracker" src="demos/covid19-tracker.png" width="100%">
@@ -14,12 +14,12 @@
 - [React Countup](https://github.com/glennreyes/react-countup)
 
 ## :information_source: How To Use
-You'll need: [Git](https://git-scm.com) and [Node](https://nodejs.org/) installed in your computer.
+You'll need: [Node](https://nodejs.org/) and [Git](https://git-scm.com) installed in your computer.
 ```bash
 # Clone this project
 $ git clone https://github.com/apfjunior/tracker-application-covid19.git
 
-# Go the folder project
+# Go to the project folder
 $ cd tracker-application-covid19
 
 # Install dependencies and Run
