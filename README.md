@@ -23,7 +23,7 @@ $ git clone https://github.com/apfjunior/tracker-application-covid19.git
 $ cd tracker-application-covid19
 
 # Install dependencies and Run
-$ npm i && npm start`
+$ npm i && npm start
 ```
 &nbsp;
 
