@@ -1,6 +1,6 @@
 ## :bar_chart:  COVID-19 Tracker Application
 
-### :mag:[Live Site!](https://covid19website.netlify.com)
+### :mag: [Live Site!](https://covid19website.netlify.com)
 
 <p align="center">
   <img alt="covid19-tracker" src="demos/covid19-tracker.png" width="100%">
