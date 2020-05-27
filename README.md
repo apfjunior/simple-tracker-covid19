@@ -39,4 +39,5 @@ $ npm i && npm start
 :books: Classroom with [JavaScript Mastery](https://www.youtube.com/channel/UCmXmlB4-HJytD7wek0Uo97A/videos). Thanks so much for it!
 
 -----
-:wave: [Let's Connect!](https://www.linkedin.com/in/antoninopraxedes/)
+By Antonino Praxedes :wave: [Get in touch!](https://www.linkedin.com/in/antoninopraxedes/)
+
