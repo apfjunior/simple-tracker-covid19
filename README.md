@@ -1,7 +1,7 @@
 <p align="center">
-  <img alt="GitHub top language" src="https://img.shields.io/github/languages/top/apfjunior/tracker-application-covid19">
-  <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/apfjunior/tracker-application-covid19">
-  <img alt="Repository size" src="https://img.shields.io/github/repo-size/apfjunior/tracker-application-covid19">
+  <img alt="GitHub top language" src="https://img.shields.io/github/languages/top/apfjunior/simple-tracker-covid19">
+  <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/apfjunior/simple-tracker-covid19">
+  <img alt="Repository size" src="https://img.shields.io/github/repo-size/apfjunior/simple-tracker-covid19">
   <a href="https://github.com/apfjunior"><img alt="Made by Marlon Marques" src="https://img.shields.io/badge/made%20by-Antonino%20Praxedes-blue"></a>
 </p>
 
