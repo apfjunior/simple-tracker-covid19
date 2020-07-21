@@ -1,3 +1,9 @@
+<p align="center">
+  <img alt="GitHub top language" src="https://img.shields.io/github/languages/top/apfjunior/tracker-application-covid19">
+  <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/apfjunior/tracker-application-covid19">
+  <img alt="Repository size" src="https://img.shields.io/github/repo-size/apfjunior/tracker-application-covid19">
+</p>
+
 ## :bar_chart:  COVID-19 Tracker Application
 
 ### :mag: Live Site: [https://covid19website.netlify.com](https://covid19website.netlify.com)
