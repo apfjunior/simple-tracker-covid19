@@ -46,7 +46,7 @@ $ npm i && npm start
 ```
 &nbsp;
 
-:books: Classroom with [JavaScript Mastery](https://www.youtube.com/channel/UCmXmlB4-HJytD7wek0Uo97A/videos). Thanks so much for it!
+**Acknowledgment:**[JavaScript Mastery](https://www.youtube.com/channel/UCmXmlB4-HJytD7wek0Uo97A/videos)
 
 -----
 **by Antonino Praxedes :wave: [Get in touch!](https://www.linkedin.com/in/antoninopraxedes/)**
