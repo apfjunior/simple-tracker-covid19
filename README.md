@@ -3,7 +3,7 @@
   <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/apfjunior/simple-tracker-covid19">
   <img alt="Repository size" src="https://img.shields.io/github/repo-size/apfjunior/simple-tracker-covid19">
   <a href="https://github.com/apfjunior">
-    <img alt="Made by Antonino Praxedes" src="https://img.shields.io/badge/made%20by-Antonino%20Praxedes-blue">
+    <img alt="Made by Antonino Praxedes" src="https://img.shields.io/badge/created%20by-Antonino%20Praxedes-blue">
   </a>
 </p>
 
@@ -49,5 +49,5 @@ $ npm i && npm start
 **Acknowledgment:** [JavaScript Mastery](https://www.youtube.com/channel/UCmXmlB4-HJytD7wek0Uo97A/videos)
 
 -----
-**by Antonino Praxedes :wave: [Get in touch!](https://www.linkedin.com/in/antoninopraxedes/)**
+**Created by Antonino Praxedes 👋🏻 [Get in touch!](https://www.linkedin.com/in/antoninopraxedes/)**
 
