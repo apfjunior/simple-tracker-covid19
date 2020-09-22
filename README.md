@@ -7,18 +7,15 @@
   </a>
 </p>
 
-
-## :bar_chart:  COVID-19 Tracker Application
-
-### :mag: Live Site: [https://covid19website.netlify.com](https://covid19website.netlify.com)
-
 <p align="center">
   <img alt="covid19-tracker" src="demos/covid19-tracker.png" width="100%">
 </p>
 
+### :mag: Deploy: [https://covid19website.netlify.com](https://covid19website.netlify.com)
+
 &nbsp;
 
-### :magnet: API used 
+## :magnet: API used 
 - [https://covid19.mathdro.id/api](https://covid19.mathdro.id/api)
 
 &nbsp;
