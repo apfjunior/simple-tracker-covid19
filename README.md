@@ -7,6 +7,8 @@
   </a>
 </p>
 
+## Simple Tracker COVID-19
+
 <p align="center">
   <img alt="covid19-tracker" src="demos/covid19-tracker.png" width="100%">
 </p>
