@@ -17,7 +17,7 @@
 
 &nbsp;
 
-## :magnet: API used 
+## :magnet: API 
 - [https://covid19.mathdro.id/api](https://covid19.mathdro.id/api)
 
 &nbsp;
